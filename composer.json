@@ -1,0 +1,20 @@
+{
+    "name": "proclnas/smbgrep",
+    "description": "Smb utils",
+    "type": "project",
+    "require": {
+        "icewind/smb": "^2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "SmbGrep\\": "src/SmbGrep/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nas",
+            "email": "proclnas@gmail.com"
+        }
+    ]
+}
