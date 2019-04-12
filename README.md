@@ -1,11 +1,11 @@
 SmbGREP
-=
+--
 
-*Smbgrep* is an experimental smb file "sniffer".
+*Smbgrep* is a simple smb file monitor.
 
 PreRequisites:
 - PHP >= 5.3
-- smblib
+- smblib (The magic)
 
 Features:
 - Check for I/O modifications (Notify)
